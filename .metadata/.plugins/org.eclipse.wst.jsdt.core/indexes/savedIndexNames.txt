@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+D:\spotifyapp\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2373500367.index
+490897955.index
+3673684392.index
+1051906990.index
+4253889243.index

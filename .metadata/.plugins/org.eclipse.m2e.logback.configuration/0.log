@@ -1,0 +1,373 @@
+2025-03-08 22:25:16,918 [Worker-5] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-03-08 22:26:46,384 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: bit:application:1.0 @ D:\FinalBitZip\application\pom.xml.
+2025-03-08 22:26:47,259 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.9.6/jackson-databind-2.9.6.pom
+2025-03-08 22:26:47,480 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.9.6/jackson-databind-2.9.6.pom
+2025-03-08 22:26:47,560 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-base/2.9.6/jackson-base-2.9.6.pom
+2025-03-08 22:26:47,659 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-base/2.9.6/jackson-base-2.9.6.pom
+2025-03-08 22:26:47,737 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.9.6/jackson-bom-2.9.6.pom
+2025-03-08 22:26:47,840 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.9.6/jackson-bom-2.9.6.pom
+2025-03-08 22:26:47,918 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.9.1.1/jackson-parent-2.9.1.1.pom
+2025-03-08 22:26:48,015 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.9.1.1/jackson-parent-2.9.1.1.pom
+2025-03-08 22:26:48,094 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/33/oss-parent-33.pom
+2025-03-08 22:26:48,201 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/33/oss-parent-33.pom
+2025-03-08 22:26:48,282 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.pom
+2025-03-08 22:26:48,377 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.pom
+2025-03-08 22:26:48,455 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.9.0/jackson-parent-2.9.0.pom
+2025-03-08 22:26:48,554 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.9.0/jackson-parent-2.9.0.pom
+2025-03-08 22:26:48,634 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/28/oss-parent-28.pom
+2025-03-08 22:26:48,737 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/28/oss-parent-28.pom
+2025-03-08 22:26:48,817 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.9.6/jackson-core-2.9.6.pom
+2025-03-08 22:26:48,914 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.9.6/jackson-core-2.9.6.pom
+2025-03-08 22:26:49,282 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-jasper/9.0.78/tomcat-embed-jasper-9.0.78.pom
+2025-03-08 22:26:49,450 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-jasper/9.0.78/tomcat-embed-jasper-9.0.78.pom
+2025-03-08 22:26:49,528 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/9.0.78/tomcat-embed-core-9.0.78.pom
+2025-03-08 22:26:49,622 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/9.0.78/tomcat-embed-core-9.0.78.pom
+2025-03-08 22:26:49,701 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-annotations-api/9.0.78/tomcat-annotations-api-9.0.78.pom
+2025-03-08 22:26:49,816 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-annotations-api/9.0.78/tomcat-annotations-api-9.0.78.pom
+2025-03-08 22:26:49,894 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-el/9.0.78/tomcat-embed-el-9.0.78.pom
+2025-03-08 22:26:49,991 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-el/9.0.78/tomcat-embed-el-9.0.78.pom
+2025-03-08 22:26:50,069 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jdt/ecj/3.26.0/ecj-3.26.0.pom
+2025-03-08 22:26:50,166 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jdt/ecj/3.26.0/ecj-3.26.0.pom
+2025-03-08 22:26:50,244 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/web/jakarta.servlet.jsp.jstl/1.2.6/jakarta.servlet.jsp.jstl-1.2.6.pom
+2025-03-08 22:26:50,499 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/web/jakarta.servlet.jsp.jstl/1.2.6/jakarta.servlet.jsp.jstl-1.2.6.pom
+2025-03-08 22:26:50,578 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/ee4j/project/1.0.5/project-1.0.5.pom
+2025-03-08 22:26:50,681 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/ee4j/project/1.0.5/project-1.0.5.pom
+2025-03-08 22:26:50,762 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/servlet/jsp/jstl/jakarta.servlet.jsp.jstl-api/1.2.4/jakarta.servlet.jsp.jstl-api-1.2.4.pom
+2025-03-08 22:26:50,865 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/servlet/jsp/jstl/jakarta.servlet.jsp.jstl-api/1.2.4/jakarta.servlet.jsp.jstl-api-1.2.4.pom
+2025-03-08 22:26:50,944 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/servlet/jakarta.servlet-api/4.0.2/jakarta.servlet-api-4.0.2.pom
+2025-03-08 22:26:51,045 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/servlet/jakarta.servlet-api/4.0.2/jakarta.servlet-api-4.0.2.pom
+2025-03-08 22:26:51,124 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/el/jakarta.el-api/3.0.2/jakarta.el-api-3.0.2.pom
+2025-03-08 22:26:51,297 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/el/jakarta.el-api/3.0.2/jakarta.el-api-3.0.2.pom
+2025-03-08 22:26:51,377 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.3.6.Final/hibernate-core-5.3.6.Final.pom
+2025-03-08 22:26:51,547 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.3.6.Final/hibernate-core-5.3.6.Final.pom
+2025-03-08 22:26:51,625 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.3.2.Final/jboss-logging-3.3.2.Final.pom
+2025-03-08 22:26:51,726 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.3.2.Final/jboss-logging-3.3.2.Final.pom
+2025-03-08 22:26:51,808 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/15/jboss-parent-15.pom
+2025-03-08 22:26:51,917 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/15/jboss-parent-15.pom
+2025-03-08 22:26:51,996 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/persistence/javax.persistence-api/2.2/javax.persistence-api-2.2.pom
+2025-03-08 22:26:52,096 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/persistence/javax.persistence-api/2.2/javax.persistence-api-2.2.pom
+2025-03-08 22:26:52,194 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/javassist/javassist/3.23.1-GA/javassist-3.23.1-GA.pom
+2025-03-08 22:26:52,292 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/javassist/javassist/3.23.1-GA/javassist-3.23.1-GA.pom
+2025-03-08 22:26:52,373 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.8.17/byte-buddy-1.8.17.pom
+2025-03-08 22:26:52,543 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.8.17/byte-buddy-1.8.17.pom
+2025-03-08 22:26:52,694 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-parent/1.8.17/byte-buddy-parent-1.8.17.pom
+2025-03-08 22:26:52,801 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy-parent/1.8.17/byte-buddy-parent-1.8.17.pom
+2025-03-08 22:26:52,880 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/antlr/antlr/2.7.7/antlr-2.7.7.pom
+2025-03-08 22:26:52,972 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/antlr/antlr/2.7.7/antlr-2.7.7.pom
+2025-03-08 22:26:53,051 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.1.1.Final/jboss-transaction-api_1.2_spec-1.1.1.Final.pom
+2025-03-08 22:26:53,144 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.1.1.Final/jboss-transaction-api_1.2_spec-1.1.1.Final.pom
+2025-03-08 22:26:53,222 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/25/jboss-parent-25.pom
+2025-03-08 22:26:53,332 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/25/jboss-parent-25.pom
+2025-03-08 22:26:53,411 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jandex/2.0.5.Final/jandex-2.0.5.Final.pom
+2025-03-08 22:26:53,508 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jandex/2.0.5.Final/jandex-2.0.5.Final.pom
+2025-03-08 22:26:53,584 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/12/jboss-parent-12.pom
+2025-03-08 22:26:53,695 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/12/jboss-parent-12.pom
+2025-03-08 22:26:53,785 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/classmate/1.3.4/classmate-1.3.4.pom
+2025-03-08 22:26:53,891 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/classmate/1.3.4/classmate-1.3.4.pom
+2025-03-08 22:26:53,968 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/24/oss-parent-24.pom
+2025-03-08 22:26:54,070 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/24/oss-parent-24.pom
+2025-03-08 22:26:54,149 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.pom
+2025-03-08 22:26:54,246 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.pom
+2025-03-08 22:26:54,322 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/activation/all/1.2.0/all-1.2.0.pom
+2025-03-08 22:26:54,424 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/activation/all/1.2.0/all-1.2.0.pom
+2025-03-08 22:26:54,506 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/java/jvnet-parent/1/jvnet-parent-1.pom
+2025-03-08 22:26:54,602 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/java/jvnet-parent/1/jvnet-parent-1.pom
+2025-03-08 22:26:54,681 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/dom4j/dom4j/1.6.1/dom4j-1.6.1.pom
+2025-03-08 22:26:54,776 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/dom4j/dom4j/1.6.1/dom4j-1.6.1.pom
+2025-03-08 22:26:54,895 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/5.0.4.Final/hibernate-commons-annotations-5.0.4.Final.pom
+2025-03-08 22:26:54,989 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/5.0.4.Final/hibernate-commons-annotations-5.0.4.Final.pom
+2025-03-08 22:26:55,067 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.3.1.Final/jboss-logging-3.3.1.Final.pom
+2025-03-08 22:26:55,162 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.3.1.Final/jboss-logging-3.3.1.Final.pom
+2025-03-08 22:26:55,242 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.12/mysql-connector-java-8.0.12.pom
+2025-03-08 22:26:55,409 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.12/mysql-connector-java-8.0.12.pom
+2025-03-08 22:26:55,489 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/2.6.0/protobuf-java-2.6.0.pom
+2025-03-08 22:26:55,585 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/2.6.0/protobuf-java-2.6.0.pom
+2025-03-08 22:26:55,690 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.9.6/jackson-databind-2.9.6.jar
+2025-03-08 22:26:56,126 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.9.6/jackson-databind-2.9.6.jar
+2025-03-08 22:26:56,199 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.jar
+2025-03-08 22:26:56,295 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.jar
+2025-03-08 22:26:56,368 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.9.6/jackson-core-2.9.6.jar
+2025-03-08 22:26:56,473 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.9.6/jackson-core-2.9.6.jar
+2025-03-08 22:26:56,627 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-jasper/9.0.78/tomcat-embed-jasper-9.0.78.jar
+2025-03-08 22:26:56,815 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-jasper/9.0.78/tomcat-embed-jasper-9.0.78.jar
+2025-03-08 22:26:56,887 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/9.0.78/tomcat-embed-core-9.0.78.jar
+2025-03-08 22:26:57,220 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/9.0.78/tomcat-embed-core-9.0.78.jar
+2025-03-08 22:26:57,292 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-annotations-api/9.0.78/tomcat-annotations-api-9.0.78.jar
+2025-03-08 22:26:57,511 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/tomcat-annotations-api/9.0.78/tomcat-annotations-api-9.0.78.jar
+2025-03-08 22:26:57,584 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-el/9.0.78/tomcat-embed-el-9.0.78.jar
+2025-03-08 22:26:57,684 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-el/9.0.78/tomcat-embed-el-9.0.78.jar
+2025-03-08 22:26:57,758 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jdt/ecj/3.26.0/ecj-3.26.0.jar
+2025-03-08 22:26:57,942 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jdt/ecj/3.26.0/ecj-3.26.0.jar
+2025-03-08 22:26:58,015 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/web/jakarta.servlet.jsp.jstl/1.2.6/jakarta.servlet.jsp.jstl-1.2.6.jar
+2025-03-08 22:26:58,291 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/web/jakarta.servlet.jsp.jstl/1.2.6/jakarta.servlet.jsp.jstl-1.2.6.jar
+2025-03-08 22:26:58,364 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/servlet/jsp/jstl/jakarta.servlet.jsp.jstl-api/1.2.4/jakarta.servlet.jsp.jstl-api-1.2.4.jar
+2025-03-08 22:26:58,535 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/servlet/jsp/jstl/jakarta.servlet.jsp.jstl-api/1.2.4/jakarta.servlet.jsp.jstl-api-1.2.4.jar
+2025-03-08 22:26:58,609 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/servlet/jakarta.servlet-api/4.0.2/jakarta.servlet-api-4.0.2.jar
+2025-03-08 22:26:58,779 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/servlet/jakarta.servlet-api/4.0.2/jakarta.servlet-api-4.0.2.jar
+2025-03-08 22:26:58,852 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/el/jakarta.el-api/3.0.2/jakarta.el-api-3.0.2.jar
+2025-03-08 22:26:59,024 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/el/jakarta.el-api/3.0.2/jakarta.el-api-3.0.2.jar
+2025-03-08 22:26:59,451 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.3.6.Final/hibernate-core-5.3.6.Final.jar
+2025-03-08 22:27:01,198 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/5.3.6.Final/hibernate-core-5.3.6.Final.jar
+2025-03-08 22:27:01,271 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.3.2.Final/jboss-logging-3.3.2.Final.jar
+2025-03-08 22:27:01,368 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.3.2.Final/jboss-logging-3.3.2.Final.jar
+2025-03-08 22:27:01,442 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/persistence/javax.persistence-api/2.2/javax.persistence-api-2.2.jar
+2025-03-08 22:27:01,543 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/persistence/javax.persistence-api/2.2/javax.persistence-api-2.2.jar
+2025-03-08 22:27:01,617 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/javassist/javassist/3.23.1-GA/javassist-3.23.1-GA.jar
+2025-03-08 22:27:01,733 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/javassist/javassist/3.23.1-GA/javassist-3.23.1-GA.jar
+2025-03-08 22:27:01,901 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.8.17/byte-buddy-1.8.17.jar
+2025-03-08 22:27:02,076 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/bytebuddy/byte-buddy/1.8.17/byte-buddy-1.8.17.jar
+2025-03-08 22:27:02,147 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/antlr/antlr/2.7.7/antlr-2.7.7.jar
+2025-03-08 22:27:02,256 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/antlr/antlr/2.7.7/antlr-2.7.7.jar
+2025-03-08 22:27:02,328 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.1.1.Final/jboss-transaction-api_1.2_spec-1.1.1.Final.jar
+2025-03-08 22:27:02,559 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.1.1.Final/jboss-transaction-api_1.2_spec-1.1.1.Final.jar
+2025-03-08 22:27:02,632 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jandex/2.0.5.Final/jandex-2.0.5.Final.jar
+2025-03-08 22:27:02,732 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jandex/2.0.5.Final/jandex-2.0.5.Final.jar
+2025-03-08 22:27:02,803 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/classmate/1.3.4/classmate-1.3.4.jar
+2025-03-08 22:27:02,900 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/classmate/1.3.4/classmate-1.3.4.jar
+2025-03-08 22:27:02,972 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.jar
+2025-03-08 22:27:03,077 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.jar
+2025-03-08 22:27:03,151 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar
+2025-03-08 22:27:03,265 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar
+2025-03-08 22:27:03,336 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/5.0.4.Final/hibernate-commons-annotations-5.0.4.Final.jar
+2025-03-08 22:27:03,433 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/5.0.4.Final/hibernate-commons-annotations-5.0.4.Final.jar
+2025-03-08 22:27:03,506 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.12/mysql-connector-java-8.0.12.jar
+2025-03-08 22:27:03,730 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/8.0.12/mysql-connector-java-8.0.12.jar
+2025-03-08 22:27:03,801 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/2.6.0/protobuf-java-2.6.0.jar
+2025-03-08 22:27:03,915 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/2.6.0/protobuf-java-2.6.0.jar
+2025-03-08 22:27:12,628 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /application/src/main/java
+2025-03-08 22:27:12,628 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /application/src/main/resources
+2025-03-08 22:27:12,629 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /application/src/test/java
+2025-03-08 22:27:13,595 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 34 sec
+2025-03-08 22:27:15,050 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 22:27:15,074 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-03-08 22:27:15,084 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 22:27:15,085 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FinalBitZip\application\src\test\resources
+2025-03-08 22:41:08,367 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 22:41:08,402 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-03-08 22:41:08,403 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 22:41:08,403 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FinalBitZip\application\src\test\resources
+2025-03-08 22:54:30,071 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 22:54:30,072 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-03-08 22:54:30,073 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 22:54:30,074 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FinalBitZip\application\src\test\resources
+2025-03-08 22:55:48,048 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 22:55:48,049 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-03-08 22:55:48,050 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 22:55:48,053 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FinalBitZip\application\src\test\resources
+2025-03-08 22:57:34,253 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 22:57:34,255 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-03-08 22:57:34,255 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 22:57:34,256 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FinalBitZip\application\src\test\resources
+2025-03-08 22:58:22,049 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 22:58:22,049 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-03-08 22:58:22,050 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 22:58:22,051 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FinalBitZip\application\src\test\resources
+2025-03-08 22:59:01,447 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 22:59:01,448 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-03-08 22:59:01,450 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 22:59:01,451 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FinalBitZip\application\src\test\resources
+2025-03-08 23:00:24,429 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:00:24,431 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-03-08 23:00:24,443 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:00:24,446 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FinalBitZip\application\src\test\resources
+2025-03-08 23:01:31,973 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:01:31,976 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-03-08 23:01:31,978 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:01:31,979 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FinalBitZip\application\src\test\resources
+2025-03-08 23:15:30,291 [Worker-38] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: spotify:spotifyapp:1.0 @ D:\FinalBitZip\application\pom.xml.
+2025-03-08 23:15:31,083 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:15:31,086 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-03-08 23:15:31,087 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:15:31,088 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FinalBitZip\application\src\test\resources
+2025-03-08 23:15:31,088 [Worker-38] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of application
+2025-03-08 23:15:31,088 [Worker-38] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for application
+2025-03-08 23:15:31,091 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:15:32,735 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:15:32,736 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-03-08 23:15:32,748 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:15:32,748 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FinalBitZip\application\src\test\resources
+2025-03-08 23:16:13,377 [Worker-42] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: bit:application:1.0 @ D:\FinalBitZip\application\pom.xml.
+2025-03-08 23:16:13,911 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:16:13,913 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-03-08 23:16:13,916 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:16:13,917 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FinalBitZip\application\src\test\resources
+2025-03-08 23:16:13,918 [Worker-42] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of application
+2025-03-08 23:16:13,918 [Worker-42] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for application
+2025-03-08 23:16:13,922 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:16:15,911 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:16:15,912 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-03-08 23:16:15,925 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:16:15,926 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\FinalBitZip\application\src\test\resources
+2025-03-08 23:18:43,693 [Worker-5] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-03-08 23:18:46,871 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:18:46,881 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-03-08 23:18:46,889 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:18:46,890 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\spotifyapp\application\src\test\resources
+2025-03-08 23:19:11,770 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: spotify:application:1.0 @ D:\spotifyapp\application\pom.xml.
+2025-03-08 23:19:12,310 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:19:12,312 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-03-08 23:19:12,313 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:19:12,314 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\spotifyapp\application\src\test\resources
+2025-03-08 23:19:12,314 [Worker-13] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of application
+2025-03-08 23:19:12,315 [Worker-13] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for application
+2025-03-08 23:19:12,319 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:19:27,975 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: spotify:spotifyapp:1.0 @ D:\spotifyapp\application\pom.xml.
+2025-03-08 23:19:28,760 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:19:28,762 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-03-08 23:19:28,763 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:19:28,763 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\spotifyapp\application\src\test\resources
+2025-03-08 23:19:28,763 [Worker-14] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of application
+2025-03-08 23:19:28,763 [Worker-14] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for application
+2025-03-08 23:19:28,767 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:20:49,463 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:20:49,468 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-03-08 23:20:49,473 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:20:49,473 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\spotifyapp\application\src\test\resources
+2025-03-08 23:21:09,488 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:21:09,489 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-03-08 23:21:09,490 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:21:09,491 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\spotifyapp\application\src\test\resources
+2025-03-08 23:21:32,411 [Worker-13] WARN  o.e.r.models.ModelRepository - Failed to download org.eclipse.recommenders:index::zip:0.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/oxygen/)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:453) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:255) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:232) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:303) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:193) [org.eclipse.recommenders.models_2.5.2.v20180401-1226.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:172) [org.eclipse.recommenders.models_2.5.2.v20180401-1226.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:168) [org.eclipse.recommenders.models.rcp_2.5.2.v20180401-1226.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.5.2.v20180401-1226.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56) [org.eclipse.core.jobs_3.9.3.v20180115-1757.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/oxygen/)
+	at org.eclipse.aether.connector.basic.ArtifactTransportListener.transferFailed(ArtifactTransportListener.java:48) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:364) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.util.concurrency.RunnableErrorForwarder$1.run(RunnableErrorForwarder.java:76) ~[na:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$DirectExecutor.execute(BasicRepositoryConnector.java:590) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector.get(BasicRepositoryConnector.java:258) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:529) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:430) ~[na:na]
+	... 8 common frames omitted
+2025-03-08 23:21:46,693 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:21:46,697 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-03-08 23:21:46,700 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:21:46,700 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\spotifyapp\application\src\test\resources
+2025-03-08 23:21:58,230 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:21:58,231 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-03-08 23:21:58,233 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:21:58,233 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\spotifyapp\application\src\test\resources
+2025-03-08 23:22:03,560 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:22:03,561 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-03-08 23:22:03,564 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:22:03,566 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\spotifyapp\application\src\test\resources
+2025-03-08 23:22:37,921 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:22:37,922 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-03-08 23:22:37,924 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:22:37,925 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\spotifyapp\application\src\test\resources
+2025-03-08 23:22:42,276 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:22:42,277 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-03-08 23:22:42,278 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:22:42,279 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\spotifyapp\application\src\test\resources
+2025-03-08 23:22:46,749 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:22:46,750 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-03-08 23:22:46,751 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:22:46,752 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\spotifyapp\application\src\test\resources
+2025-03-08 23:22:50,269 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:22:50,270 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-03-08 23:22:50,271 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:22:50,272 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\spotifyapp\application\src\test\resources
+2025-03-08 23:22:53,951 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:22:53,952 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-03-08 23:22:53,953 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:22:53,953 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\spotifyapp\application\src\test\resources
+2025-03-08 23:23:06,611 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:23:06,612 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-03-08 23:23:06,613 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:23:06,613 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\spotifyapp\application\src\test\resources
+2025-03-08 23:23:11,029 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:23:11,030 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-03-08 23:23:11,031 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:23:11,031 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\spotifyapp\application\src\test\resources
+2025-03-08 23:23:14,137 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:23:14,138 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-03-08 23:23:14,139 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:23:14,140 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\spotifyapp\application\src\test\resources
+2025-03-08 23:23:20,361 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:23:20,361 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-03-08 23:23:20,362 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:23:20,363 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\spotifyapp\application\src\test\resources
+2025-03-08 23:23:24,218 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:23:24,219 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-03-08 23:23:24,221 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:23:24,221 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\spotifyapp\application\src\test\resources
+2025-03-08 23:23:28,137 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:23:28,138 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-03-08 23:23:28,139 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:23:28,139 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\spotifyapp\application\src\test\resources
+2025-03-08 23:23:40,309 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:23:40,309 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-03-08 23:23:40,311 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:23:40,311 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\spotifyapp\application\src\test\resources
+2025-03-08 23:23:47,190 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:23:47,192 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-03-08 23:23:47,193 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:23:47,194 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\spotifyapp\application\src\test\resources
+2025-03-08 23:23:51,671 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:23:51,673 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-03-08 23:23:51,676 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:23:51,677 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\spotifyapp\application\src\test\resources
+2025-03-08 23:24:06,855 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:24:06,857 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-03-08 23:24:06,858 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:24:06,859 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\spotifyapp\application\src\test\resources
+2025-03-08 23:24:13,858 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:24:13,859 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-03-08 23:24:13,860 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:24:13,860 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\spotifyapp\application\src\test\resources
+2025-03-08 23:24:24,112 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:24:24,113 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-03-08 23:24:24,114 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:24:24,115 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\spotifyapp\application\src\test\resources
+2025-03-08 23:24:33,195 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:24:33,197 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-03-08 23:24:33,198 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:24:33,199 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\spotifyapp\application\src\test\resources
+2025-03-08 23:24:56,273 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:24:56,275 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-03-08 23:24:56,275 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:24:56,276 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\spotifyapp\application\src\test\resources
+2025-03-08 23:25:22,774 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:25:22,775 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-03-08 23:25:22,775 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:25:22,777 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\spotifyapp\application\src\test\resources
+2025-03-08 23:25:29,422 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:25:29,424 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-03-08 23:25:29,425 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:25:29,426 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\spotifyapp\application\src\test\resources
+2025-03-08 23:29:31,686 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:29:31,687 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-03-08 23:29:31,703 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:29:31,703 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\spotifyapp\application\src\test\resources
+2025-03-08 23:30:21,259 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:30:21,259 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-03-08 23:30:21,260 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:30:21,260 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\spotifyapp\application\src\test\resources
+2025-03-08 23:30:29,934 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:30:29,935 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-03-08 23:30:29,937 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:30:29,937 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\spotifyapp\application\src\test\resources
+2025-03-08 23:30:36,612 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:30:36,614 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-03-08 23:30:36,616 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:30:36,617 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\spotifyapp\application\src\test\resources
+2025-03-08 23:30:39,500 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:30:39,501 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-03-08 23:30:39,502 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:30:39,502 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\spotifyapp\application\src\test\resources
+2025-03-08 23:32:13,116 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: spotify:spotifyapp:1.0 @ D:\spotifyapp\application\pom.xml.
+2025-03-08 23:32:14,007 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:32:14,008 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-03-08 23:32:14,010 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-03-08 23:32:14,010 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\spotifyapp\application\src\test\resources
+2025-03-08 23:32:14,010 [Worker-8] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of application
+2025-03-08 23:32:14,010 [Worker-8] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for application
+2025-03-08 23:32:14,013 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1255 actually) to copy filtered resources, i.e. build is platform dependent!
